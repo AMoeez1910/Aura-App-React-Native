@@ -1,0 +1,2 @@
+router.replace prevents navigation back 
+router.push allows navigation back
